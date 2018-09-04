@@ -1,0 +1,64 @@
+{
+  "self": {
+    "_id": 0,
+    "avatar": "/static/img/avatar.jpg",
+    "birthday": "8/8/88",
+    "name": "国民老公",
+    "gender": "female",
+    "email": "666666@666.com",
+    "phone": "666666",
+    "address": "广州白宫",
+    "explain": "Ut excepteur consequat duis adipisicing ad elit.",
+    "about": "Esse esse pariatur sint irure fugiat anim anim magna irure qui. Sit nostrud veniam laboris ipsum voluptate ipsum dolore esse eiusmod sunt duis commodo ad. Dolor commodo Lorem proident excepteur quis magna proident duis adipisicing ea anim veniam aliquip ullamco. Ipsum fugiat Lorem id duis consequat aliquip proident aliquip in duis adipisicing. Qui ad est qui laborum reprehenderit occaecat nisi ad qui ullamco non.\r\n"
+  },
+  "friend": [
+    {
+      "_id": 1,
+      "avatar": "/static/img/timg6.jpeg",
+      "birthday": "1/3/95",
+      "name": "二号女友",
+      "gender": "female",
+      "email": "131313@666.com",
+      "phone": "131313",
+      "address": "广州白宫旁边",
+      "explain": "Dolore ea cupidatat deserunt nostrud officia est ",
+      "about": "Ullamco amet velit esse et duis deserunt ex in non eiusmod. Amet anim nisi aliqua minim aute consectetur amet fugiat labore in deserunt duis sunt. Deserunt tempor dolor in adipisicing irure magna in dolor magna exercitation Lorem et Lorem velit. Elit quis et proident ad aliquip qui aute anim eu minim deserunt excepteur. Mollit commodo sunt esse aute do. Quis non nisi id incididunt exercitation sint exercitation.\r\n"
+    },
+    {
+      "_id": 2,
+      "avatar": "/static/img/timg2.jpeg",
+      "birthday": "21/12/97",
+      "name": "三号女友",
+      "gender": "female",
+      "email": "121212@666.com",
+      "phone": "121212",
+      "address": "广州白宫旁边",
+      "explain": "Ipsum sit cupidatat dolore voluptate.",
+      "about": "Ea laboris magna ex nisi Lorem anim sint excepteur. Amet nostrud proident dolore ad enim amet ipsum deserunt fugiat duis nisi tempor. Ex id amet duis do nostrud deserunt fugiat. Velit reprehenderit nulla exercitation minim pariatur deserunt do nulla enim Lorem laboris nisi labore incididunt. Laboris proident aliquip in proident cupidatat eiusmod sint nisi sit. Mollit qui pariatur ut exercitation mollit cupidatat. Ad ex cillum voluptate consequat laboris cupidatat.\r\n"
+    },
+    {
+      "_id": 3,
+      "avatar": "/static/img/timg.png",
+      "birthday": "1/5/99",
+      "name": "四号女友",
+      "gender": "female",
+      "email": "151515@666.com",
+      "phone": "151515",
+      "address": "广州白宫旁边",
+      "explain": "Voluptate ad fugiat magna ut cupidatat",
+      "about": "Irure consectetur do ea ea ex proident laborum ex dolore incididunt mollit fugiat. Lorem minim adipisicing labore cillum velit adipisicing. Laboris laboris proident esse deserunt enim exercitation eu qui pariatur excepteur ad Lorem enim veniam.\r\n"
+    },
+    {
+      "_id": 4,
+      "avatar": "/static/img/timg4.png",
+      "birthday": "1/4/98",
+      "name": "五号女友",
+      "gender": "female",
+      "email": "141414@666.com",
+      "phone": "141414",
+      "address": "广州白宫旁边",
+      "explain": "Voluptate ad fugiat magna ut cupidatat",
+      "about": "Irure consectetur do ea ea ex proident laborum ex dolore incididunt mollit fugiat. Lorem minim adipisicing labore cillum velit adipisicing. Laboris laboris proident esse deserunt enim exercitation eu qui pariatur excepteur ad Lorem enim veniam.\r\n"
+    }
+  ]
+}
